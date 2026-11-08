@@ -1,3 +1,6 @@
+// Trakaliuk Anzhelika K-28
+// Variant 14
+
 #include <chrono>
 #include <future>
 #include <iostream>
